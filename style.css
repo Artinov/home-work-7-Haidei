@@ -1,0 +1,173 @@
+.wrapper {
+	width:102%;
+	margin: -10px;	
+}
+.header {
+	display: inline-block;
+	background: #2c3e50;
+	width:100%;
+}
+.header .start-bootstrap  {
+	float:left;
+	color:white;
+	margin-left: 80px;
+	font-size:30px;
+	margin-top: 45px;
+    margin-bottom: 20px;
+}
+.header .navigation  {
+	margin-right: 60px;
+	float:right;
+}
+.header .navigation a  {
+	float:right;
+	font-size:15px;
+	margin-top: 35px;
+    margin-bottom: 20px;
+	padding: 20px;
+	color:white;
+	font-family: arial;
+	text-decoration: none;}
+
+.main {
+	background: #18bc9c;
+	width:102%;
+	margin:-10px;
+	text-align:center;
+	}
+.main img {
+	display: inline-block;
+	border-radius: 50%;
+	margin-top: 100px;
+	margin-bottom: 20px;
+}
+.main b {
+	color: white;
+	font-size: 60px;
+}
+.main span {
+	color: white;
+	font-size: 30px;
+	width: 50px;
+}
+.web p {
+	font-size: 25px;
+	color: white;
+	margin-bottom: 40px;
+}
+.PORTFOLIO {
+	text-align: center;
+	margin-top: 80px;
+	margin-bottom: 20px;
+	margin: 20px;
+	padding-left:30px;
+	padding-right:30px;
+	padding-top: 60px;
+	padding-bottom: 60px;
+}
+.PORTFOLIO h1 b {
+	color: #333333;
+	font-size: 50px;
+}
+.PORTFOLIO span {
+	padding-bottom: 20px;
+	font-size: 30px;
+	color: #2c3e50;
+}
+.ABOUT {
+	text-align: center;
+	background: #18bc9c;
+	padding: 50px;
+}
+.ABOUT h1 b {
+	color: white;
+	font-size: 50px;
+	margin-bottom: 80px;
+}
+.ABOUT span {
+	font-size: 30px;
+	color: white;
+	margin-bottom: 30px;
+}
+.ABOUT .row p {
+	color: white;
+	font-size: 17px;
+	text-align: left;
+}
+.ABOUT button {
+	margin: 20px;
+	color: white;
+	font-size: 20px;
+	border-color: white;
+	border-radius:5px;
+	background-color: #18bc9c;
+	height: 50px;
+	width: 200px;
+}
+.ABOUT button  {
+	
+	vertical-align: center;
+	
+}
+.CONTACT {
+	text-align: center;
+	padding: 60px;
+	float: center;
+	margin-bottom: 60px;
+}
+.CONTACT h1 b {
+	color: #333333;
+	font-size: 50px;
+	margin-bottom: 80px;
+}
+.CONTACT span {
+	font-size: 30px;
+	color: #2c3e50;
+	margin-bottom: 30px;
+}
+.CONTACT .form-group {
+	height: 25px;
+	size: 40px;
+}
+.CONTACT .form-group {
+	vertical-align: center;
+	height: 50px;
+    margin-top: 20px;
+	padding-bottom: 20px;
+}
+.CONTACT .form-group input{
+	border: none;
+	font-size: 20px;
+}
+.CONTACT .form-group input {
+	border: none;
+	font-size: 20px;
+}
+
+.CONTACT  button  {
+	color: white;
+	background:#18bc9c;
+	font-size: 20px;
+}
+.other{
+	background: #2c3e50;
+}
+.other .row{
+	display: inline-block;
+	font-size: 20px;
+	color: white;
+	font-family: arial;
+	display: block;
+	margin:10%;
+	margin-bottom: 0px;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 70px;
+}
+
+.footer {
+	padding: 20px;
+	color: white;
+	text-align: center;
+	background-color: #233140;
+}
